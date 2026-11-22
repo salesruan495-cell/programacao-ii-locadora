@@ -1,0 +1,33 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+target/
+build/
+
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+*.key
+secrets.properties
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
