@@ -1,5 +1,4 @@
 # Guia de colaboração e versionamento
-
 **Disciplina:** Programação II — 2026.2  
 **Projeto:** Sistema de Locação de Veículos
 
