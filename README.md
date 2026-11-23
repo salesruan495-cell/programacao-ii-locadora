@@ -16,7 +16,7 @@
 | Entrega definitiva | **02/12/2026, até 23h59** | Código, documentação e tag `entrega-2026-12-02` |
 | Apresentação | **07/12/2026** | Demonstração, explicação técnica e arguição individual |
 
-**Link do repositório:** [https://github.com/salesruan495-cell/programacao-ii-locadora/tree/main]  
+**Link do repositório:** https://github.com/salesruan495-cell/programacao-ii-locadora
 **Commit da entrega (hash):** `[preencher após a entrega]`  
 **Tag da entrega:** `entrega-2026-12-02`
 
@@ -42,7 +42,7 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Data | Decisão ou redistribuição | Responsáveis | Evidência |
 |---|---|---|---|
-| 22/11 | Definição da divisão das responsabilidades entre os cinco integrantes, conforme as funcionalidades do sistema | Todo os integrantes | [Issue, PR ou commit] |
+| 22/11 | Definição da divisão das responsabilidades entre os cinco integrantes, conforme as funcionalidades do sistema | Todos os integrantes | README.md |
 
 ## 4. Funcionalidades obrigatórias
 
