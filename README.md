@@ -17,6 +17,7 @@
 | Apresentação | **07/12/2026** | Demonstração, explicação técnica e arguição individual |
 
 **Link do repositório:** https://github.com/salesruan495-cell/programacao-ii-locadora
+
 **Commit da entrega (hash):** `[preencher após a entrega]`  
 **Tag da entrega:** `entrega-2026-12-02`
 
