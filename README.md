@@ -24,7 +24,7 @@
 
 Desenvolver uma aplicação Java para cadastrar clientes e veículos, registrar locações e devoluções, consultar informações e calcular valores conforme regras específicas para carros e motocicletas. O sistema deve demonstrar classes, encapsulamento, herança, abstração, polimorfismo, interfaces e tratamento de exceções.
 
-## 3. Equipe e responsabilidades e contribuições
+## 3. Equipe e responsabilidades 
 
 O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer com seu usuário real do GitHub. Até **23/11**, preencher a coluna *Responsabilidades planejadas*. Até **02/12**, atualizar *Entregas realizadas* e indicar evidências verificáveis no histórico. É possível revisar a distribuição de tarefas ao longo do trabalho, registrando as mudanças.
 
