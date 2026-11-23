@@ -4,7 +4,7 @@
 **Curso:** Licenciatura em Computação  
 **Disciplina:** Programação II — 2026.2  
 **Professor:** Victor Ferreira  
-**Grupo:** [identificação do grupo]
+**Grupo:** Grupo 2 
 
 > **Repositório-modelo.** Substitua os campos entre colchetes, registre as decisões reais do grupo e implemente o projeto. Este modelo não contém a solução do sistema.
 
