@@ -16,7 +16,7 @@
 | Entrega definitiva | **02/12/2026, até 23h59** | Código, documentação e tag `entrega-2026-12-02` |
 | Apresentação | **07/12/2026** | Demonstração, explicação técnica e arguição individual |
 
-**Link do repositório:** [inserir URL pública]  
+**Link do repositório:** [https://github.com/salesruan495-cell/programacao-ii-locadora/tree/main]  
 **Commit da entrega (hash):** `[preencher após a entrega]`  
 **Tag da entrega:** `entrega-2026-12-02`
 
@@ -24,19 +24,17 @@
 
 Desenvolver uma aplicação Java para cadastrar clientes e veículos, registrar locações e devoluções, consultar informações e calcular valores conforme regras específicas para carros e motocicletas. O sistema deve demonstrar classes, encapsulamento, herança, abstração, polimorfismo, interfaces e tratamento de exceções.
 
-## 3. Equipe, responsabilidades e contribuições
+## 3. Equipe e responsabilidades e contribuições
 
 O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer com seu usuário real do GitHub. Até **23/11**, preencher a coluna *Responsabilidades planejadas*. Até **02/12**, atualizar *Entregas realizadas* e indicar evidências verificáveis no histórico. É possível revisar a distribuição de tarefas ao longo do trabalho, registrando as mudanças.
 
 | Integrante | GitHub | Responsabilidades planejadas | Entregas efetivamente realizadas | Evidências (commits/PRs) |
 |---|---|---|---|---|
-| [Nome 1] | [@usuario1 — substituir] | [Ex.: cadastro de veículos — RF01] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 2] | [@usuario2 — substituir] | [Ex.: cadastro de clientes — RF02] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 3] | [@usuario3 — substituir] | [Ex.: locações — RF04] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 4] | [@usuario4 — substituir] | [Ex.: regras de cálculo — RF05] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 5] | [@usuario5 — substituir] | [Ex.: devolução e consultas — RF06/RF07] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 6] | [@usuario6 — substituir] | [Ex.: exceções e validações] | [Preencher após implementação] | [Links para commits/PRs] |
-| [Nome 7] | [@usuario7 — substituir] | [Ex.: documentação e integração; também contribuir no código] | [Preencher após implementação] | [Links para commits/PRs] |
+| Sales Ruan | @salesruan495-cell | Modelo de veículos (Veiculo, Carro, Moto e Locavel), cálculo polimórfico (RF05) e cadastro de veículos (RF01) | [Preencher após implementação] | [Links para commits/PRs] |
+| Ana Luísa | @Luisa12-dev | Cadastro de clientes (RF02) e consulta/listagem de veículos (RF03) | [Preencher após implementação] | [Links para commits/PRs] |
+| Gabriel Santos | @gabrielsilvasantos-sketch | Classe Locacao, registro de locações (RF04) e devolução de veículos (RF06) | [Preencher após implementação] | [Links para commits/PRs] |
+| Enzo Rocha | @enzorochajmj | Exceções, validações, classe SistemaLocacao, consulta de locações (RF07) e testes dos casos de erro | [Preencher após implementação] | [Links para commits/PRs] |
+| Rafael Gueiros | @rafaelgueiros-ui | Menu do console (Main), documentação (README), diagrama de classes, exemplos de testes e acompanhamento da integração | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 
@@ -44,7 +42,7 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 
 | Data | Decisão ou redistribuição | Responsáveis | Evidência |
 |---|---|---|---|
-| [dd/mm] | [Decisão tomada pelo grupo] | [@usuario] | [Issue, PR ou commit] |
+| 22/11 | Definição da divisão das responsabilidades entre os cinco integrantes, conforme as funcionalidades do sistema | Todo os integrantes | [Issue, PR ou commit] |
 
 ## 4. Funcionalidades obrigatórias
 
