@@ -32,9 +32,9 @@ O preenchimento desta seção é **obrigatório**. Cada integrante deve aparecer
 |---|---|---|---|---|
 | Sales Ruan | @salesruan495-cell | Modelo de veículos (Veiculo, Carro, Moto e Locavel), cálculo polimórfico (RF05) e cadastro de veículos (RF01) | [Preencher após implementação] | [Links para commits/PRs] |
 | Ana Luísa | @Luisa12-dev | Cadastro de clientes (RF02) e consulta/listagem de veículos (RF03) | [Preencher após implementação] | [Links para commits/PRs] |
-| Gabriel Santos | @gabrielsilvasantos-sketch | Classe Locacao, registro de locações (RF04) e devolução de veículos (RF06) | [Preencher após implementação] | [Links para commits/PRs] |
+| Rafael Gueiros | @rafaelgueiros-ui | Classe Locacao, registro de locações (RF04) e devolução de veículos (RF06) | [Preencher após implementação] | [Links para commits/PRs] |
 | Enzo Rocha | @enzorochajmj | Exceções, validações, classe SistemaLocacao, consulta de locações (RF07) e testes dos casos de erro | [Preencher após implementação] | [Links para commits/PRs] |
-| Rafael Gueiros | @rafaelgueiros-ui | Menu do console (Main), documentação (README), diagrama de classes, exemplos de testes e acompanhamento da integração | [Preencher após implementação] | [Links para commits/PRs] |
+| Gabriel Santos | @gabrielsilvasantos-sketch | Menu do console (Main), documentação (README), diagrama de classes, exemplos de testes e acompanhamento da integração | [Preencher após implementação] | [Links para commits/PRs] |
 
 > Ajuste a quantidade de linhas ao número real de integrantes. **Planejamento não equivale a comprovação de autoria.** A avaliação individual considerará as alterações efetivas e a capacidade de explicá-las. A distribuição acima é apenas ilustrativa; não há obrigação de manter essas atribuições.
 
